@@ -4,12 +4,18 @@ Engineer a [tech stack](https://mm.dreamineering.com/docs/technology/sdk/) where
 
 Establish common protocols for [commiting to decisions with bets](https://mm.dreamineering.com/docs/principles/platform/web3/primitives/decentralized-decisions-protocols) with objective reasoning.
 
+## Flow
+
+Start with a [picture of success](https://mm.dreamineering.com/docs/business/functions/business-documents/business-financial-docs/financial-doc-discounted-cashflow) the work back to find the [critical path](https://mm.dreamineering.com/docs/business/business-principles/critical-path)
+
 See [berleytrails](https://github.com/dreamineering/berleytrails) for code.
 
 - [Pitch](https://mm.dreamineering.com/docs/experiments/dreamineering/)
 - [Third Space](https://mm.dreamineering.com/docs/experiments/better-practice/)
 
-Workbooks
+
+
+## Workbooks
 
 - [Tech Stack](https://docs.google.com/spreadsheets/d/1XiA_gfU_TkQXlEqVEiVLUUjKmyAZM3rirlJ5EUjJl9Y/edit#gid=1797190969)
 - [Blockchain Comparison](https://docs.google.com/spreadsheets/d/16pqE_E4FzNbsqn-ACxkYfhCyBg3M9kQGcySUM3zw73M/edit#gid=1322132351)
