@@ -14,6 +14,8 @@ See [berleytrails](https://github.com/dreamineering/berleytrails) for code.
 - [Third Space](https://mm.dreamineering.com/docs/experiments/better-practice/)
 
 
+Optimise routing [money with instructions](https://mm.dreamineering.com/docs/engineering/software/algorithms/routing-algorithm) with CCIP where [everyone is now an LP](https://mm.dreamineering.com/docs/value/money/tokenomics/tokenomics-defi/defi-uniswap).
+
 
 ## Workbooks
 
