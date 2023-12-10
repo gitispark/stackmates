@@ -27,4 +27,8 @@ Optimise routing [money with instructions](https://mm.dreamineering.com/docs/eng
 - [Third Space](https://docs.google.com/spreadsheets/d/137bivoW4gOKJ9avATvSUgnFND6xELQuJw4cybaL006c/edit#gid=134217819)
 - [Tech Startup](https://docs.google.com/spreadsheets/d/10zBw2LruDEmkBAA9GFVfBaG3UtkOMItr-44CvIxb1VQ/edit#gid=1021038640)
 
+## Diagrams
+
+- [Tech Stack](https://www.figma.com/file/SR3Xg7a8tElFPLoovsqwUO/technology-stack?type=whiteboard&node-id=260-1322&t=6q447RjvecYVn1fG-4)
+
 [stackmat.es](https://www.stackmat.es/)
