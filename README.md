@@ -2,7 +2,7 @@
 
 [Culture builds loyalty](https://mm.dreamineering.com/docs/value/money/tokenomics/tokenomics-games/), loyalty builds liquidity.
 
-Engineer a [tech stack](https://mm.dreamineering.com/docs/technology/sdk/) where each component [flows together](https://mm.dreamineering.com/docs/flow) to optimise [teamwork](https://mm.dreamineering.com/docs/principles/people/community/teamwork) in rapidly [experimenting with ideas](https://mm.dreamineering.com/docs/experiments/) that [distribute value](https://mm.dreamineering.com/docs/value/).
+Engineer a [tech stack](https://mm.dreamineering.com/docs/engineering/software/sdk/) where each component [flows together](https://mm.dreamineering.com/docs/flow) to optimise [teamwork](https://mm.dreamineering.com/docs/principles/people/community/teamwork) in rapidly [experimenting with ideas](https://mm.dreamineering.com/docs/experiments/) that [distribute value](https://mm.dreamineering.com/docs/value/).
 
 Establish common protocols for [commiting to decisions with bets](https://mm.dreamineering.com/docs/principles/platform/web3/primitives/decentralized-decisions-protocols) with objective reasoning.
 
